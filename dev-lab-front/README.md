@@ -1,5 +1,11 @@
 # dev-lab-front
 
+## Stack
+
+- [Vue.js Material Component Framework — Vuetify.js](https://vuetifyjs.com/en/)
+- [Vue Router](https://router.vuejs.org/)
+- [Scss](https://sass-lang.com/)
+
 ## Project setup
 ```
 npm install
